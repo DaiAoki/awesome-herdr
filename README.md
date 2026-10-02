@@ -2549,6 +2549,7 @@ Official links: [Website](https://herdr.dev/) · [GitHub](https://github.com/ogu
 - **[Herdr Socket API Reference](https://github.com/ogulcancelik/herdr/blob/master/SOCKET_API.md)**: Protocol documentation for controlling Herdr programmatically over Unix domain sockets.
 - **[Herdr Plugin Marketplace](https://herdr.dev/plugins/)**: The official directory of community plugins and integrations.
 - **[Herdr Official Agent Skill](https://github.com/ogulcancelik/herdr/blob/master/SKILL.md)**: Standard instructions teaching LLM agents how to interact with Herdr.
+- **[WebTerm Learn: Herdr Introduction](https://learn.webterm.app/en/courses/herdr-introduction)**: A free six-lesson course that runs a Herdr simulation in the browser, covering panes, tabs, workspaces, detach and reattach, and agent states with the default keybindings. No install or account needed.
 
 ## Reference
 
